@@ -72,7 +72,6 @@ int main() {
         }
         cout << "~" << endl;
     }
-    return 0;
 }
 /*
 https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum
