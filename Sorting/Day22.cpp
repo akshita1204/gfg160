@@ -25,8 +25,6 @@ sort(citations.begin(),citations.end(),greater<int>());
 };
 
 
-//{ Driver Code Starts.
-
 int main() {
 
     int test_cases;
