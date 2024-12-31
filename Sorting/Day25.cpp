@@ -63,10 +63,7 @@ int main() {
             if (i != (ans.size() - 1))
                 cout << ",";
         }
-        cout << "]" << endl;
 
-        cout << "~"
-             << "\n";
     }
     return 0;
 }
