@@ -7,7 +7,6 @@ using namespace std;
 class Solution {
   public:
     vector<vector<int>> mergeOverlap(vector<vector<int>>& arr) {
-        // Code here
         sort(arr.begin(),arr.end());
         vector<vector<int>>ans;
          ans.push_back(arr[0]); 
