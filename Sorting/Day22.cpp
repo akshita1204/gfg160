@@ -52,7 +52,6 @@ int main() {
 
         cout << "~" << endl;
     }
-    return 0;
 }
 
 /*https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/find-h-index--165609 */
