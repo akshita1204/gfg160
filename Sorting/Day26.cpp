@@ -42,9 +42,6 @@ int main() {
         }
         Solution obj;
         cout << obj.minRemoval(intervals) << endl;
-
-        cout << "~"
-             << "\n";
     }
     return 0;
 }
